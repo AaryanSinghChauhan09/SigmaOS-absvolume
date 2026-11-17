@@ -3,7 +3,7 @@ name = "SigmaOS-absvolume"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "absvolume component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
